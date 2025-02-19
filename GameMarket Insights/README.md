@@ -69,20 +69,34 @@ Para este análisis, utilicé un **dataset** con información sobre ventas de vi
 ---
 ### 📌 1. Ventas en función del tiempo
 **Objetivo:** Identificar tendencias y cambios en el mercado.
-|Year|Global\_Sales|
-|---|---|
-|2008|678\.9|
-|2009|667\.3|
-|2007|609\.92|
-|2010|600\.29|
-|2006|521\.04|
-|2011|515\.8|
-|2005|458\.51|
-|2004|414\.01|
-|2002|395\.52|
-|2013|368\.11|
+
+El análisis de las ventas globales de videojuegos a lo largo del tiempo nos revela algunos patrones clave en la evolución de la industria. Durante el período de 2004 a 2013, las ventas fueron especialmente altas, alcanzando su punto máximo en 2008 con 678.9 millones de unidades, seguido de cerca por 2009 (667.3 M) y 2007 (609.92 M). Este pico posiblemente corresponde a un auge de consolas populares como la PS2, Xbox 360 y Nintendo DS, que junto con el crecimiento de franquicias icónicas como Call of Duty, Grand Theft Auto, Halo, y The Elder Scrolls, marcaron una era dorada para la industria.
+
+📊  Años con más ventas globales
+|     Year     | Global Sales (M) |
+|:-----------:|:---------------:|
+|    **2008**   |    **678.9**    |
+|    **2009**   |    **667.3**    |
+|    **2007**   |    **609.92**   |
+|    **2010**   |    **600.29**   |
+|    **2006**   |    **521.04**   |
+|    **2011**   |    **515.8**    |
+|    **2005**   |    **458.51**   |
+|    **2004**   |    **414.01**   |
+|    **2013**   |    **368.11**   |
 
 
+📉 Tendencia de ventas a lo largo del tiempo
+
+Las ventas globales crecieron de forma constante desde los años 80 hasta los 2000, alcanzando su máximo en la década de 2000 (4,636M de unidades vendidas), especialmente entre los años 2004 y 2013, con el máximo en 2008. Esta tendencia se asocia con el impacto de las mencionadas consolas y franquicias.
+
+![Años con más ventas](images/ventas_vs_tiempo.png)
+
+![Ventas por Décadas](images/Ventas_decada.png)
+
+Sin embargo, después de 2013, se observa una caída gradual en las ventas, lo que podría estar relacionado con varios factores, como el cambio en los hábitos de consumo y la transición hacia nuevas plataformas digitales y modelos de negocio, como los juegos en línea, los servicios de suscripción y los free-to-play.
+
+![Pico de Ventas](images/anios_pico_ventas.png)
 
 ¡Gracias por leer! Si te interesa conocer más sobre los detalles del proyecto, consulta los archivos adicionales o contáctame para más información.
 
