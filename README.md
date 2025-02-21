@@ -1,11 +1,34 @@
-#Professional Data Analysis Portfolio
+# 📊 Professional Data Analysis Portfolio  
 
-Welcome to the Professional Data Analysis Portfolio repository. This collection showcases a variety of data analysis projects, highlighting expertise in data cleaning, visualization, statistical analysis, and data modeling.
+This repository showcases a series of data analysis projects, ranging from data cleaning and exploration to modeling and advanced visualization. Each project is documented with detailed methodologies, key findings, and visual representations to demonstrate the ability to transform data into strategic insights.  
 
-Each project is documented with clear methodologies, key findings, and visualizations to demonstrate the ability to transform data into actionable insights.
+## 📌 About Me  
+I am a cybersecurity specialist with a strong background in software development and data analysis. I am currently pursuing a **Data Science in Organizations** degree at the National University of La Plata (UNLP), a program focused on data management and analysis in organizational contexts. Additionally, I am studying for a **Higher Technical Degree in Artificial Intelligence** at ISSD.  
 
-Tools and technologies such as Python, R, SQL, Tableau, and Power BI are utilized to handle diverse datasets and solve complex problems.
+My approach integrates technical expertise with a strategic vision aimed at data-driven decision-making.  
 
-This portfolio serves as a testament to analytical skills, problem-solving abilities, and a commitment to delivering data-driven solutions.
+## 🛠️ Technical Skills  
+- **Programming Languages**: Python, SQL, R, JavaScript, Pascal  
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau  
+- **Machine Learning & AI**: Scikit-Learn, TensorFlow, PyTorch  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Other Tools**: Git, Linux, Docker  
 
-Explore the projects to see how data can be leveraged to drive decision-making and innovation.
+## 🚀 Featured Projects  
+🔹 [GameMarket Insights](https://github.com/djota-dev/Professional-Data-Analysis-Portfolio/tree/54ba2febd6a4fa11877f5af0afb4b23e9f061b01/GameMarket%20Insights) - Data analysis of the video game market, exploring sales trends, player preferences, and industry forecasts using tools like Python, Pandas, and data visualization. 
+
+## 📜 Certifications & Training  
+🎓 Data Science in Organizations - UNLP (Ongoing)  
+🎓 Higher Technical Degree in Artificial Intelligence - ISSD (Ongoing)  
+  
+
+## 🌍 Languages  
+🇧🇷 Portuguese – Native  
+🇪🇸 Spanish – Advanced  
+🇬🇧 English – intermediate  
+
+
+## 📬 Contact  
+- LinkedIn: [David Jeferson](https://www.linkedin.com/in/david-jeferson-437a7824b/)  
+- GitHub: [djota-dev](#https://github.com/djota-dev/)  
+- Email: [djotadeveloper@gmail.com](mailto:djotadeveloper@gmail.com)  
