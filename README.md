@@ -30,5 +30,5 @@ My approach integrates technical expertise with a strategic vision aimed at data
 
 ## 📬 Contact  
 - LinkedIn: [David Jeferson](https://www.linkedin.com/in/david-jeferson-437a7824b/)  
-- GitHub: [djota-dev](#https://github.com/djota-dev/)  
+- GitHub: [djota-dev](https://github.com/djota-dev/)  
 - Email: [djotadeveloper@gmail.com](mailto:djotadeveloper@gmail.com)  
