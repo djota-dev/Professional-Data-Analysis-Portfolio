@@ -20,45 +20,23 @@ Para responder esta cuestión, abordaremos las siguientes preguntas clave:
 ### 📌 1. Ventas en función del tiempo
 **Objetivo:** Identificar tendencias y cambios en el mercado.
 
-- 🔹 ¿Cuáles fueron los años con más ventas globales?
-- 🔹 ¿Hubo alguna tendencia de crecimiento o caída en ciertas décadas?
-- 🔹 ¿Existen años "pico" en los que salieron muchos juegos exitosos?
+- 🔹 **¿Cuáles fueron los años con más ventas globales?**
+- 🔹 **¿Hubo alguna tendencia de crecimiento o caída en ciertas décadas?**
+- 🔹 **¿Existen años "pico" en los que salieron muchos juegos exitosos?**
+
+### 📌 2. Impacto de plataformas y géneros  
+**Objetivo:** Analizar la evolución de las consolas más exitosas y la popularidad de los distintos géneros de videojuegos en el tiempo y por región.  
+ 
+- 🔹 **¿Cuáles fueron las plataformas más vendidas y cómo evolucionaron?**  
+- 🔹 **¿Qué géneros dominaron el mercado y cómo varían por región?**  
 
 
-
-### 📌 2. Ventas por plataforma
-**Objetivo:** Identificar qué consolas han dominado el mercado.
-
-- 🔹 ¿Qué plataformas vendieron más juegos globalmente?
-- 🔹 ¿Cómo ha cambiado el dominio de consolas con el tiempo? (Ej. NES → PS2 → Switch)
-- 🔹 ¿Hay plataformas que fueron exitosas en una región pero no en otras?
-
-
-
-### 📌 3. Ventas por género de videojuego
-**Objetivo:** Analizar qué tipos de juegos son los más populares.
-
-- 🔹 ¿Cuáles son los géneros más vendidos globalmente?
-- 🔹 ¿Hay diferencias en preferencias por región? (Ej. ¿los RPG son más populares en Japón?)
-- 🔹 ¿Algún género ha crecido o disminuido con los años?
-
-
-
-### 📌 4. Editoriales líderes
-**Objetivo:** Determinar qué empresas han dominado la industria.
-
-- 🔹 ¿Cuáles son las editoriales con más ventas globales?
-- 🔹 ¿Qué empresa tuvo más juegos exitosos en cada década?
-- 🔹 ¿Hay editoriales que dominan solo ciertas regiones?
-
-
-
-### 📌 5. Análisis por región
-**Objetivo:** Ver cómo cambian las preferencias según el mercado.
-
-- 🔹 ¿Qué región genera más ventas?
-- 🔹 ¿Hay juegos que fueron súper populares en una región pero no en otras?
-- 🔹 ¿Cómo varía el éxito de los géneros según la región?
+### 📌 3. Editoriales líderes y análisis por región  
+**Objetivo:** Identificar qué empresas han dominado el mercado y cómo varían las preferencias según cada región.  
+ 
+- 🔹 **¿Cuáles son las editoriales con más ventas globales?**  
+- 🔹 **¿Qué empresa tuvo más juegos exitosos en cada década?**  
+- 🔹 **¿Cómo varía el éxito de los géneros según la región?**  
 
 
 
