@@ -76,5 +76,29 @@ Sin embargo, después de 2013, se observa una caída gradual en las ventas, lo q
 
 ![Pico de Ventas](images/anios_pico_ventas.png)
 
+
+
+### 📌 2. Impacto de plataformas y géneros  
+
+### 🔹 Plataformas más vendidas  
+La consola con mayores ventas fue **PS2**, alcanzando un pico de **211.78 millones de unidades en 2004**. Su éxito puede atribuirse a:  
+- Su extenso catálogo de juegos.  
+- Compatibilidad con títulos de PS1.  
+- Su impacto en la evolución de la industria del entretenimiento digital.  
+
+Tras este auge, se observa una estabilización y posterior declive en sus ventas, coincidiendo con la llegada de consolas de nueva generación como la **Xbox 360** y la **PS3**.  
+
+### 🔹 Preferencias de géneros según región  
+🎮 **Norteamérica:** El género más vendido fue **Action**.  
+🎮 **Europa:** El género dominante también fue **Action**.  
+🎮 **Japón:** Predominó el género **Role-Playing (RPG)**, reflejando su fuerte tradición en títulos narrativos como **Final Fantasy** y **Dragon Quest**.  
+🌍 **Global:** El género más vendido fue **Action**, consolidando su liderazgo en la industria.  
+
+Los datos muestran que la popularidad de las consolas y los géneros de videojuegos varía según la región y la evolución de la industria.  
+- **PS2 dominó una era**, pero su declive dio paso a nuevas generaciones de consolas.  
+- **Las preferencias de género varían**: Mientras que los juegos de acción lideran en Occidente, los RPGs tienen mayor impacto en Japón.  
+
+Estos factores han moldeado la evolución del mercado y seguirán influyendo en las tendencias futuras.
+
 ¡Gracias por leer! Si te interesa conocer más sobre los detalles del proyecto, consulta los archivos adicionales o contáctame para más información.
 
