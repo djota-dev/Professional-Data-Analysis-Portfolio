@@ -1,4 +1,4 @@
-# 📊 GameMarket Insights
+# 📊 GameMarket Insights .
 
 ## Introducción
 
