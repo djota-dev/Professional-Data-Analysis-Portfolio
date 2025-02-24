@@ -36,7 +36,7 @@ Para responder esta cuestión, abordaremos las siguientes preguntas clave:
  
 - 🔹 **¿Cuáles son las editoriales con más ventas globales?**  
 - 🔹 **¿Qué empresa tuvo más juegos exitosos en cada década?**  
-- 🔹 **¿Cómo varía el éxito de los géneros según la región?**  
+
 
 
 
