@@ -190,7 +190,15 @@ Nintendo ha sido el actor más dominante en la industria, encabezando las ventas
 🎮🚀 Mirando hacia el futuro
 El gaming no deja de evolucionar: nuevos modelos de negocio, innovaciones tecnológicas y cambios en las preferencias del público seguirán dando forma a la industria. ¿Cuál será la próxima gran revolución? Solo el tiempo lo dirá, pero lo que es seguro es que el mundo de los videojuegos no deja de sorprendernos.
 
-📂 Explora más
 
-¡Gracias por leer! Si quieres conocer más detalles sobre el proyecto, consulta los archivos adicionales o contáctame para más información.
+## 📂 **Explora más**
 
+ 🚀 **Ejecuta el Análisis Interactivo**
+
+Si deseas ejecutar el análisis por ti mismo o revisar el código interactivo, haz clic en el siguiente enlace de Google Colab:
+
+[🔗 **Análisis en Google Colab**](https://colab.research.google.com/drive/1Cj0ycRJNM9WqLLyVAw3cEjx88ry9Ez37?usp=sharing)
+
+---
+
+🎉 **¡Gracias por leer!** Si quieres conocer más detalles sobre el proyecto, consulta los archivos adicionales o contáctame para más información. 📩
