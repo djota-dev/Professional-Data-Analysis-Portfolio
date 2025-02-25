@@ -17,6 +17,12 @@ My approach integrates technical expertise with a strategic vision aimed at data
 ## 🚀 Featured Projects  
 🔹 [GameMarket Insights](https://github.com/djota-dev/Professional-Data-Analysis-Portfolio/tree/e0b0c3dafcabe1120b14b82aec7537292feb8ab9/GameMarket%20Insights) - Data analysis of the video game market, exploring sales trends, player preferences, and industry forecasts using tools like Python, Pandas, and data visualization. 
 
+🔹 [Worldwide-Health-Patterns](https://#) - Exploring global health trends by analyzing the relationship between infant mortality rates, life expectancy, and other health indicators using Python, Pandas, and data visualization techniques.
+
+**Link coming soon!**
+
+
+
 ## 📜 Certifications & Training  
 🎓 Data Science in Organizations - UNLP (Ongoing)  
 🎓 Higher Technical Degree in Artificial Intelligence - ISSD (Ongoing)  
