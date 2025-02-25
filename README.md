@@ -15,7 +15,7 @@ My approach integrates technical expertise with a strategic vision aimed at data
 - **Other Tools**: Git, Linux, Docker  
 
 ## 🚀 Featured Projects  
-🔹 [GameMarket Insights](https://github.com/djota-dev/Professional-Data-Analysis-Portfolio/tree/54ba2febd6a4fa11877f5af0afb4b23e9f061b01/GameMarket%20Insights) - Data analysis of the video game market, exploring sales trends, player preferences, and industry forecasts using tools like Python, Pandas, and data visualization. 
+🔹 [GameMarket Insights](https://github.com/djota-dev/Professional-Data-Analysis-Portfolio/tree/2efb1d98bf8dbfeebfee2b7c291d6b7d142756c0/GameMarket%20Insights) - Data analysis of the video game market, exploring sales trends, player preferences, and industry forecasts using tools like Python, Pandas, and data visualization. 
 
 ## 📜 Certifications & Training  
 🎓 Data Science in Organizations - UNLP (Ongoing)  
