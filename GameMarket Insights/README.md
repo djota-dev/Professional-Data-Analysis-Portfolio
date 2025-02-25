@@ -173,19 +173,23 @@ A medida que avanzan las décadas, podemos ver cómo **Nintendo ha logrado mante
 
 ## 🔥 Conclusión Final
 
- 
-El análisis del mercado global de videojuegos nos permitió identificar patrones clave que han definido la evolución de la industria en las últimas décadas.
+El mercado de los videojuegos ha experimentado cambios significativos en las últimas décadas, impulsados por la evolución tecnológica y las preferencias de los jugadores. Este análisis nos permitió identificar tendencias clave en ventas, plataformas y géneros.
 
-📈 **Crecimiento y declive de las ventas:** Las ventas alcanzaron su punto más alto entre 2004 y 2013, con un **pico en 2008**. Sin embargo, a partir de 2013, se observa una disminución progresiva, impulsada por la transición a modelos de negocio digitales como los juegos en línea, los servicios de suscripción y las plataformas móviles.
+📈 Crecimiento y declive de las ventas
+Las ventas alcanzaron su punto más alto entre 2004 y 2013, con un pico en 2008. Sin embargo, a partir de 2013, comenzaron a disminuir progresivamente debido a la transición hacia modelos de negocio digitales, como los juegos en línea, los servicios de suscripción y las plataformas móviles.
 
-🎮 **Impacto de las plataformas:** La **PS2** fue la consola con mayores ventas globales, mientras que otras plataformas como la **DS y la Xbox 360** dominaron en distintos períodos. Sin embargo, la evolución de la industria ha llevado a cambios en las preferencias del consumidor, dando paso a nuevas generaciones de consolas y tecnologías emergentes.
+🎮 Impacto de las plataformas
+La PlayStation 2 fue la consola más vendida a nivel global, mientras que otras como la Nintendo DS y la Xbox 360 dominaron en distintos períodos. No obstante, la industria ha evolucionado, dando paso a nuevas generaciones de consolas y tecnologías emergentes que han redefinido las preferencias de los jugadores.
 
-🌎 **Preferencias de género por región:** Si bien los juegos de **acción** son los más vendidos a nivel global y en Occidente, en Japón los títulos de **RPG** han sido los más populares, reflejando diferencias culturales en el consumo de videojuegos.
+🌎 Preferencias de género por región
+Si bien los juegos de acción lideran las ventas globales y en Occidente, en Japón los RPG han sido los más populares, reflejando diferencias culturales en el consumo de videojuegos.
 
-🏆 **Editoriales líderes:** **Nintendo** ha sido el actor más dominante en la industria, encabezando las ventas en todas las décadas analizadas. **Electronic Arts y Activision** han crecido con franquicias deportivas y shooters, mientras que **Sony y Ubisoft** han mantenido su relevancia con títulos exclusivos y de mundo abierto.
+🏆 Editoriales líderes
+Nintendo ha sido el actor más dominante en la industria, encabezando las ventas en todas las décadas analizadas. Electronic Arts y Activision han crecido con franquicias deportivas y shooters, mientras que Sony y Ubisoft han mantenido su relevancia con títulos exclusivos y de mundo abierto.
 
+🎮🚀 Mirando hacia el futuro
+El gaming no deja de evolucionar: nuevos modelos de negocio, innovaciones tecnológicas y cambios en las preferencias del público seguirán dando forma a la industria. ¿Cuál será la próxima gran revolución? Solo el tiempo lo dirá, pero lo que es seguro es que el mundo de los videojuegos no deja de sorprendernos.
 
-El mercado de los videojuegos está en constante evolución, y este análisis nos ha permitido descubrir patrones clave que han definido su historia y marcarán su futuro. ¿Cuál será la próxima gran revolución en la industria? El tiempo lo dirá, pero una cosa es segura: ¡el gaming sigue más vivo que nunca!" 🎮🚀
-
-¡Gracias por leer! Si te interesa conocer más sobre los detalles del proyecto, consulta los archivos adicionales o contáctame para más información.
+📂 Explora más
+¡Gracias por leer! Si quieres conocer más detalles sobre el proyecto, consulta los archivos adicionales o contáctame para más información.
 
